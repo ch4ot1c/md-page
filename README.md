@@ -15,7 +15,7 @@
 3. Write some [markdown](https://guides.github.com/features/mastering-markdown/)
 ```
 <!-- my-page.html --> 
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
+<script src="https://rawcdn.githack.com/ch4ot1c/md-page/master/md-page.js"></script><noscript>
 
 # Header
 Welcome to my simplest site
@@ -25,9 +25,9 @@ Welcome to my simplest site
 - list
 ```
 
-(see the [docs](https://github.com/oscarmorrison/md-page/tree/master/docs) for more info)
+(see the [docs](https://github.com/ch4ot1c/md-page/tree/master/docs) for more info)
 
-### Demo
+### Original Demo
 *editable demo:* https://jsbin.com/katuyos/edit?html,output  
 *live demo:* https://oscarmorrison.com/md-page/
 
