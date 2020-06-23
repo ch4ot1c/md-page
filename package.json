@@ -29,7 +29,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "showdown": "^1.9.1",
-    "showdown-highlight": "^2.1.4"
+    "showdown": "github:ch4ot1c/showdown#patched",
+    "showdown-highlight": "github:ch4ot1c/showdown-highlight#patched"
   }
 }
